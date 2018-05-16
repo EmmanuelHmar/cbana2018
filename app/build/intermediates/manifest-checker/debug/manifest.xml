@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="vanmang.com.actionbar"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.screen.landscape"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_cbana_round"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_cbana_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="vanmang.com.Control_Page.Tabs.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="vanmang.com.Control_Page.Schedule.Qrgenerator"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivitySchedule"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="vanmang.com.Control_Page.Tabs.ActivitySchedule" />
+        </activity>
+        <activity
+            android:name="vanmang.com.Control_Page.Tabs.ActivitySchedule"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vanmang.com.Control_Page.Tabs.ActivityLeaderships"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vanmang.com.Control_Page.Tabs.ActivityLocations"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vanmang.com.Control_Page.Tabs.ActivityContact"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vanmang.com.Control_Page.Leaderships.CBA_Christian"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityLeaderships" />
+        <activity
+            android:name="vanmang.com.Control_Page.Leaderships.CBA_Culture"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityLeaderships" />
+        <activity
+            android:name="vanmang.com.Control_Page.Leaderships.CBA_Development"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityLeaderships" />
+        />
+        <activity
+            android:name="vanmang.com.Control_Page.Leaderships.CBA_Minister"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityLeaderships" />
+        <activity
+            android:name="vanmang.com.Control_Page.Leaderships.CBA_Mission"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityLeaderships" />
+        <activity
+            android:name="vanmang.com.Control_Page.Leaderships.CBA_Women"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityLeaderships" />
+        <activity
+            android:name="vanmang.com.Control_Page.Leaderships.CBA_Youth"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityLeaderships" />
+        <activity
+            android:name="vanmang.com.Control_Page.Leaderships.CBA_Officers"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityLeaderships" />
+        <activity
+            android:name="vanmang.com.Control_Page.Leaderships.CBA_Officers2"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityLeaderships" />
+        <activity
+            android:name="vanmang.com.Control_Page.Youtube"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vanmang.com.Control_Page.Contacts.ContactsACBC"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityContact" />
+        <activity
+            android:name="vanmang.com.Control_Page.Contacts.ContactsCatering"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityContact" />
+        <activity
+            android:name="vanmang.com.Control_Page.Contacts.ContactsCommunication"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityContact" />
+        <activity
+            android:name="vanmang.com.Control_Page.Contacts.ContactsHotels"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityContact" />
+        <activity
+            android:name="vanmang.com.Control_Page.Contacts.ContactsHospitality"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityContact" />
+        <activity
+            android:name="vanmang.com.Control_Page.Contacts.ContactsTransportation"
+            android:parentActivityName="vanmang.com.Control_Page.Tabs.ActivityContact" />
+        <activity
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:clearTaskOnLaunch="true"
+            android:screenOrientation="sensorLandscape"
+            android:stateNotNeeded="true"
+            android:theme="@style/zxing_CaptureTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="vanmang.com.actionbar.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/locationToolbar4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+    <ImageView
+        android:id="@+id/backButton"
+        android:layout_marginTop="-40dp"
+        android:layout_width="40sp"
+        android:padding="5sp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_arrow_back"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Friday Dinner Schedule"
+        android:textAlignment="center"
+        android:textSize="18dp"
+        android:layout_marginTop="-30sp"
+        android:textColor="@color/colorWhite"/>
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/card_view"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_width="350dp"
+        android:layout_height="150dp"
+        card_view:cardCornerRadius="5dp">
+        <TextView
+            android:id="@+id/info_text"
+            android:text="Dinner - Atlanta Chin Baptist Church"
+            android:layout_marginTop="10dp"
+            android:textSize="18sp"
+            android:padding="10dp"
+            android:ellipsize="end"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <TextView
+            android:id="@+id/time1"
+            android:text="Time: 05:00PM - 07:00PM /Building C(Ground Foor)"
+            android:textSize="14sp"
+            android:layout_marginTop="50dp"
+            android:padding="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+        <TextView
+            android:id="@+id/time2"
+            android:text="Address: 5225 Jimmy Carter Blvd Norcross GA 30093"
+            android:textSize="14sp"
+            android:layout_marginTop="90dp"
+            android:padding="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/googlemap"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_width="350dp"
+        android:layout_height="150dp"
+        card_view:cardCornerRadius="5dp"
+        >
+        <ImageView
+            android:id="@+id/biakinn1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:scaleType="fitStart"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/acbc_biakinn2"
+            android:scaleType="fitEnd"/>
+
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/googlemap2"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_width="350dp"
+        android:layout_height="170dp"
+        card_view:cardCornerRadius="5dp"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitXY"
+            android:src="@drawable/acbc_map" />
+
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

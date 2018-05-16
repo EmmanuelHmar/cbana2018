@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="vanmang.com.Control_Page.Tabs.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="?actionBarSize">
+
+        <TextView
+            android:id="@+id/leadership_text"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/topfirst"
+            android:gravity="center"
+            android:text="Leaderships"
+            android:textAlignment="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="20dp" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_card"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/leadership_text"
+            android:padding="16dp" />
+
+    </RelativeLayout>
+
+    <!--This includes the bottom menu, instead of using the same code over and over again-->
+    <include layout="@layout/menu_bottom_navigation" />
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/recycler_linear"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/contact_name_pic"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:paddingEnd="16dp"
+            android:paddingTop="16dp"
+            android:src="@drawable/ic_person_black_24dp" />
+
+        <TextView
+            android:id="@+id/contact_name_text"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_toEndOf="@id/contact_name_pic"
+            android:paddingTop="16dp"
+            android:text="NAme"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/contact_email_pic"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_below="@id/contact_name_pic"
+            android:paddingEnd="16dp"
+            android:paddingTop="16dp"
+            android:src="@drawable/ic_email_black_24dp" />
+
+        <TextView
+            android:id="@+id/contact_email_text"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@id/contact_name_text"
+            android:layout_toEndOf="@id/contact_email_pic"
+            android:autoLink="email"
+            android:paddingTop="16dp"
+            android:text="Email"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/contact_phone_pic"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_below="@id/contact_email_pic"
+            android:paddingEnd="16dp"
+            android:paddingTop="16dp"
+            android:src="@drawable/ic_local_phone_black_24dp" />
+
+        <TextView
+            android:id="@+id/contact_phone_text"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@id/contact_email_text"
+            android:layout_toEndOf="@id/contact_phone_pic"
+            android:autoLink="phone"
+            android:paddingTop="16dp"
+            android:text="phone"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+
+
+</RelativeLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="12dp"
+    android:clickable="true"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:focusable="true"
+    app:cardCornerRadius="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:paddingTop="8dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/cbanalogo" />
+
+        <TextView
+            android:id="@+id/speakerTop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="Minister"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/speakerBottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Counsel"
+            android:textColor="@android:color/black"
+            android:paddingBottom="8dp"/>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
