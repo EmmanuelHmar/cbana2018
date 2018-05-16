@@ -6,57 +6,54 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1526447739268"
+    timestamp="1526467285669"
     token="7274027537257969664"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1208" />
+        duration="406" />
     <task
         name="instant-run-dex"
-        duration="25" />
+        duration="29" />
     <task
         name="instant-run-transform"
-        duration="136" />
+        duration="62" />
     <task
         name="verifier"
-        duration="15" />
+        duration="16" />
 
+    <artifact
+        location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
     <artifact
         location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\reload-dex\debug\classes.dex"
         type="RELOAD_DEX" />
 
     <build
         build-mode="FULL"
-        timestamp="1526442039714"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="1526466627170"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
+        <artifact
+            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
@@ -65,66 +62,30 @@
             location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1526445570260"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
             location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1526447346800"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
-        <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="HOT_WARM"
-        timestamp="1526447511563"
+        timestamp="1526467015589"
         verifier="COMPATIBLE" >
         <artifact
-            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\builds\debug\1526447511563\classes.dex"
+            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\builds\debug\1526467015589\classes.dex"
             type="RELOAD_DEX" />
     </build>
     <build
         build-mode="HOT_WARM"
-        timestamp="1526447723489"
+        timestamp="1526467285669"
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
             type="RESOURCES" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1526447739268"
-        verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\reload-dex\debug\classes.dex"
             type="RELOAD_DEX" />
