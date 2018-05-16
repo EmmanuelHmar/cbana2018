@@ -53,6 +53,10 @@ public class ActivitySchedule extends AppCompatActivity {
         adapter.addFragment(new Tab2Fragment(), "MAY 26");
         adapter.addFragment(new Tab3Fragment(), "MAY 27");
         //adapter.addFragment();
+
+        viewPager.setOffscreenPageLimit(3);
+
+
         viewPager.setAdapter(adapter);
     }
 
