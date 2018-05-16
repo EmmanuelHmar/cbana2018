@@ -16,19 +16,118 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/compat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/compat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/constraint/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/constraint/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreui/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreui/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreutils/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreutils/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/design/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/fragment/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/fragment/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/mediacompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/mediacompat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/transition/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/transition/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v4/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v4/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/zxing/client/android/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/google/zxing/client/android/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/vanmang/com/Control_Page/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/vanmang/com/Control_Page/R.java" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Christian$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/compat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreui/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/coreutils/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/design/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/fragment/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/graphics/drawable/animated/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/mediacompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/transition/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v4/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/zxing/client/android/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/google/zxing/client/android/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/BottomNavigationIntents$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/BottomNavigationIntents$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Contacts/ContactsACBC.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Contacts/ContactsACBC.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Contacts/ContactsCatering.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Contacts/ContactsCatering.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Contacts/ContactsCommunication.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Contacts/ContactsCommunication.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Contacts/ContactsHospitality.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Contacts/ContactsHospitality.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Contacts/ContactsHotels.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Contacts/ContactsHotels.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Contacts/ContactsTransportation.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Contacts/ContactsTransportation.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Christian.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Christian.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Culture$1.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Culture.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Culture.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Development.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Development.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Christian$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Minister.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Minister.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Mission.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Mission.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Officers.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Leaderships/CBA_Officers.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$integer.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$menu.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$mipmap.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$raw.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$raw.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/R$styleable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/RecyclerOptionsAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/RecyclerOptionsAdapter$ViewHolder.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Schedule/Qrgenerator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Schedule/Qrgenerator.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Schedule/Tab1Fragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Schedule/Tab1Fragment.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Tabs/ActivityLeaderships.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Tabs/ActivityLeaderships.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Tabs/ActivityLocations.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Tabs/ActivityLocations.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Tabs/ActivitySchedule.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Tabs/ActivitySchedule.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Tabs/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Tabs/MainActivity.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Youtube.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/vanmang/com/Control_Page/Youtube.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/compat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/compat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/coreui/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/coreui/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/coreutils/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/design/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/fragment/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/fragment/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/graphics/drawable/animated/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/mediacompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/transition/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/transition/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v4/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v4/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v7/recyclerview/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/google/zxing/client/android/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/google/zxing/client/android/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/BottomNavigationIntents$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/BottomNavigationIntents$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Contacts/ContactsACBC.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Contacts/ContactsACBC.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Contacts/ContactsCatering.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Contacts/ContactsCatering.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Contacts/ContactsCommunication.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Contacts/ContactsCommunication.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Contacts/ContactsHospitality.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Contacts/ContactsHospitality.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Contacts/ContactsHotels.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Contacts/ContactsHotels.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Contacts/ContactsTransportation.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Contacts/ContactsTransportation.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Christian.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Christian.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Culture$1.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Culture.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Culture.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Development.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Development.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Minister.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Minister.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Mission.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Mission.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Officers.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Leaderships/CBA_Officers.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$integer.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$menu.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$mipmap.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$raw.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$raw.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/R$styleable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/RecyclerOptionsAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/RecyclerOptionsAdapter$ViewHolder.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Schedule/Qrgenerator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Schedule/Qrgenerator.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Schedule/Tab1Fragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Schedule/Tab1Fragment.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Tabs/ActivityLeaderships.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Tabs/ActivityLeaderships.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Tabs/ActivityLocations.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Tabs/ActivityLocations.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Tabs/ActivitySchedule.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Tabs/ActivitySchedule.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Tabs/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Tabs/MainActivity.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Youtube.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/vanmang/com/Control_Page/Youtube.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/7xzYfKnMWguaQAydZgzX7s1FV_0=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/7xzYfKnMWguaQAydZgzX7s1FV_0=" />
@@ -36,34 +135,181 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/zip-cache/7xzYfKnMWguaQAydZgzX7s1FV_0=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/zip-cache/7xzYfKnMWguaQAydZgzX7s1FV_0=" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-apk/debug/app-debug.apk" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/reload-dex/debug/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/reload-dex/debug/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/reload-dex/debug/classes.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/reload-dex/debug/classes.jar" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/reload-dex/debug/classes.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/reload-dex/debug/classes.jar" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_cba_christian.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_cba_christian.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_cba_culture.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_cba_culture.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_cba_development.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_cba_development.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_cba_officers.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_cba_officers.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_4.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Christian$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/android/support/compat/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/android/support/compat/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/android/support/design/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/android/support/design/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/android/support/fragment/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/android/support/fragment/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/android/support/mediacompat/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/android/support/mediacompat/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/BottomNavigationIntents$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/BottomNavigationIntents$1.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$integer.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$integer.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$layout.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$layout.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$menu.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$menu.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$mipmap.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$mipmap.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$raw.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$raw.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$string.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$string.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$style.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$style.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$styleable.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/R$styleable.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/RecyclerOptionsAdapter$ViewHolder.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/RecyclerOptionsAdapter$ViewHolder.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/Youtube.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/137/vanmang/com/Control_Page/Youtube.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/android/support/coreutils/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/android/support/coreutils/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/android/support/v4/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/android/support/v4/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/android/support/v7/appcompat/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/android/support/v7/appcompat/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/vanmang/com/Control_Page/Tabs/ActivityLeaderships.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/vanmang/com/Control_Page/Tabs/ActivityLeaderships.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/vanmang/com/Control_Page/Tabs/ActivityLocations.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/vanmang/com/Control_Page/Tabs/ActivityLocations.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/vanmang/com/Control_Page/Tabs/ActivitySchedule.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/vanmang/com/Control_Page/Tabs/ActivitySchedule.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/vanmang/com/Control_Page/Tabs/MainActivity.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/139/vanmang/com/Control_Page/Tabs/MainActivity.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/140/android/support/graphics/drawable/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/140/android/support/graphics/drawable/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/140/android/support/transition/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/140/android/support/transition/R$id.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Christian.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Christian.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Culture$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Culture.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Culture.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Development.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Development.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Minister$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Minister.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Minister.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Mission$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Mission.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Mission.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Officers.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/141/vanmang/com/Control_Page/Leaderships/CBA_Officers.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/143/com/google/zxing/client/android/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/143/com/google/zxing/client/android/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/144/android/support/coreui/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/144/android/support/coreui/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/144/android/support/v7/recyclerview/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/144/android/support/v7/recyclerview/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/144/vanmang/com/Control_Page/Schedule/Qrgenerator.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/144/vanmang/com/Control_Page/Schedule/Qrgenerator.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/144/vanmang/com/Control_Page/Schedule/Tab1Fragment.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/144/vanmang/com/Control_Page/Schedule/Tab1Fragment.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/145/android/support/graphics/drawable/animated/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/145/android/support/graphics/drawable/animated/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/android/support/constraint/R$id.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/android/support/constraint/R$id.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/vanmang/com/Control_Page/Contacts/ContactsACBC.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/vanmang/com/Control_Page/Contacts/ContactsACBC.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/vanmang/com/Control_Page/Contacts/ContactsCatering.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/vanmang/com/Control_Page/Contacts/ContactsCatering.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/vanmang/com/Control_Page/Contacts/ContactsCommunication.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/vanmang/com/Control_Page/Contacts/ContactsCommunication.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/vanmang/com/Control_Page/Contacts/ContactsHospitality.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/vanmang/com/Control_Page/Contacts/ContactsHospitality.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/vanmang/com/Control_Page/Contacts/ContactsHotels.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/vanmang/com/Control_Page/Contacts/ContactsHotels.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/vanmang/com/Control_Page/Contacts/ContactsTransportation.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/146/vanmang/com/Control_Page/Contacts/ContactsTransportation.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Christian$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/compat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/coreui/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/coreutils/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/design/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/fragment/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/graphics/drawable/animated/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/mediacompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/transition/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/transition/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v4/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/appcompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/android/support/v7/recyclerview/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/google/zxing/client/android/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/google/zxing/client/android/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/BottomNavigationIntents$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/BottomNavigationIntents$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Contacts/ContactsACBC.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Contacts/ContactsACBC.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Contacts/ContactsCatering.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Contacts/ContactsCatering.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Contacts/ContactsCommunication.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Contacts/ContactsCommunication.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Contacts/ContactsHospitality.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Contacts/ContactsHospitality.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Contacts/ContactsHotels.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Contacts/ContactsHotels.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Contacts/ContactsTransportation.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Contacts/ContactsTransportation.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Christian.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Christian.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Culture$1.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Culture.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Culture.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Development.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Development.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/1/com/android/tools/ir/runtime/AppPatchesLoaderImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/1/com/android/tools/ir/runtime/AppPatchesLoaderImpl.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/1/vanmang/com/Control_Page/Leaderships/CBA_Development$override.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Minister.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Minister.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Mission.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Mission.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Officers.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Leaderships/CBA_Officers.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$integer.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$menu.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$mipmap.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$raw.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$raw.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/R$styleable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/RecyclerOptionsAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/RecyclerOptionsAdapter$ViewHolder.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Schedule/Qrgenerator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Schedule/Qrgenerator.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Schedule/Tab1Fragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Schedule/Tab1Fragment.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Tabs/ActivityLeaderships.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Tabs/ActivityLeaderships.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Tabs/ActivityLocations.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Tabs/ActivityLocations.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Tabs/ActivitySchedule.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Tabs/ActivitySchedule.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Tabs/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Tabs/MainActivity.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Youtube.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/vanmang/com/Control_Page/Youtube.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/1/com/android/tools/ir/runtime/AppPatchesLoaderImpl.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/1/vanmang/com/Control_Page/Leaderships/CBA_Christian$override.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/1/vanmang/com/Control_Page/Leaderships/CBA_Culture$override.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/1/vanmang/com/Control_Page/Leaderships/CBA_Minister$override.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/1/vanmang/com/Control_Page/Leaderships/CBA_Mission$override.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/compat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/compat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/design/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/fragment/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/fragment/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/mediacompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/android/support/mediacompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/buildId.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/BottomNavigationIntents$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/BottomNavigationIntents$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$integer.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$layout.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$menu.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$mipmap.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$raw.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$raw.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$string.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$style.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/R$styleable.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/RecyclerOptionsAdapter$ViewHolder.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/RecyclerOptionsAdapter$ViewHolder.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/Youtube.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/vanmang/com/Control_Page/Youtube.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/coreutils/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/coreutils/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v4/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v4/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/android/support/v7/appcompat/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/buildId.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/vanmang/com/Control_Page/Tabs/ActivityLeaderships.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/vanmang/com/Control_Page/Tabs/ActivityLeaderships.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/vanmang/com/Control_Page/Tabs/ActivityLocations.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/vanmang/com/Control_Page/Tabs/ActivityLocations.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/vanmang/com/Control_Page/Tabs/ActivitySchedule.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/vanmang/com/Control_Page/Tabs/ActivitySchedule.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/vanmang/com/Control_Page/Tabs/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/2/vanmang/com/Control_Page/Tabs/MainActivity.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/android/support/graphics/drawable/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/android/support/graphics/drawable/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/android/support/transition/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/android/support/transition/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/buildId.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Christian$1.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Christian.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Christian.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Culture$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Culture.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Culture.class" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Development.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Development.class" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Christian.java" afterPath="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Christian.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Culture.java" afterPath="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Culture.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Minister.java" afterPath="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Minister.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_christian.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_christian.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_culture.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_culture.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_development.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_development.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Minister$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Minister.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Minister.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Mission$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Mission.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Mission.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Officers.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/4/vanmang/com/Control_Page/Leaderships/CBA_Officers.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/buildId.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/google/zxing/client/android/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/com/google/zxing/client/android/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/android/support/coreui/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/android/support/coreui/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/android/support/v7/recyclerview/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/buildId.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/vanmang/com/Control_Page/Schedule/Qrgenerator.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/vanmang/com/Control_Page/Schedule/Qrgenerator.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/vanmang/com/Control_Page/Schedule/Tab1Fragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/vanmang/com/Control_Page/Schedule/Tab1Fragment.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/android/support/graphics/drawable/animated/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/android/support/graphics/drawable/animated/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/8/buildId.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/android/support/constraint/R$id.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/buildId.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/vanmang/com/Control_Page/Contacts/ContactsACBC.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/vanmang/com/Control_Page/Contacts/ContactsACBC.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/vanmang/com/Control_Page/Contacts/ContactsCatering.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/vanmang/com/Control_Page/Contacts/ContactsCatering.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/vanmang/com/Control_Page/Contacts/ContactsCommunication.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/vanmang/com/Control_Page/Contacts/ContactsCommunication.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/vanmang/com/Control_Page/Contacts/ContactsHospitality.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/vanmang/com/Control_Page/Contacts/ContactsHospitality.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/vanmang/com/Control_Page/Contacts/ContactsHotels.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/vanmang/com/Control_Page/Contacts/ContactsHotels.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/vanmang/com/Control_Page/Contacts/ContactsTransportation.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/vanmang/com/Control_Page/Contacts/ContactsTransportation.class" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Officers.java" afterPath="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Officers.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_officers.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_officers.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,8 +326,8 @@
             <file leaf-file-name="activity_cba_christian.xml" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_christian.xml">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="184">
-                    <caret line="260" column="0" lean-forward="false" selection-start-line="260" selection-start-column="0" selection-end-line="267" selection-end-column="77" />
+                  <state relative-caret-position="448">
+                    <caret line="215" column="0" lean-forward="false" selection-start-line="215" selection-start-column="0" selection-end-line="221" selection-end-column="68" />
                     <folding />
                   </state>
                 </provider>
@@ -128,36 +374,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CBA_Christian.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Christian.java">
+      <file leaf-file-name="CBA_Officers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Officers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="24" selection-end-column="62" />
+            <state relative-caret-position="153">
+              <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CBA_Minister.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Minister.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_cba_minister.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_minister.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
           </provider>
         </entry>
       </file>
@@ -165,7 +388,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Development.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="17" column="58" lean-forward="false" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="23" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -183,10 +406,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="activity_cba_officers.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_officers.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="activity_cba_development.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_development.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="847">
+            <state relative-caret-position="6897">
               <caret line="309" column="0" lean-forward="false" selection-start-line="309" selection-start-column="0" selection-end-line="309" selection-end-column="0" />
               <folding />
             </state>
@@ -205,32 +441,6 @@
             </state>
           </provider>
           <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_cba_officers.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_officers.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="toolbar_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar_main.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
             <state />
           </provider>
         </entry>
@@ -2277,12 +2487,17 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_leaderships.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Development.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_christian.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_development.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_culture.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Culture.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Christian.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Minister.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_minister.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Mission.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_mission.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_christian.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Officers.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_cba_officers.xml" />
       </list>
     </option>
   </component>
@@ -2341,7 +2556,7 @@
     <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="a3906bb0" />
-    <property name="SearchEverywhereHistoryKey" value="mini&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Leaderships.CBA_Minister&#10;christian&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Leaderships.CBA_Christian&#10;cba ch&#9;FILE&#9;file://C:/Users/E Hmar/AndroidStudioProjects/CBANA-MASTER-latest/app/src/main/res/layout/activity_cba_christian.xml&#10;cba cul&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Leaderships.CBA_Culture&#10;cba de&#9;FILE&#9;file://C:/Users/E Hmar/AndroidStudioProjects/CBANA-MASTER-latest/app/src/main/res/layout/activity_cba_development.xml&#10;cba_ch&#9;FILE&#9;file://C:/Users/E Hmar/AndroidStudioProjects/CBANA-MASTER-latest/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Christian.java&#10;leader&#9;FILE&#9;file://C:/Users/E Hmar/AndroidStudioProjects/CBANA-MASTER-latest/app/src/main/res/layout/activity_leaderships.xml&#10;manifest&#9;FILE&#9;file://C:/Users/E Hmar/AndroidStudioProjects/CBANA-MASTER-latest/app/src/main/AndroidManifest.xml&#10;contac&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Contacts.ContactsACBC&#10;cbadeve&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Leaderships.CBA_Development&#10;leaders&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Tabs.ActivityLeaderships" />
+    <property name="SearchEverywhereHistoryKey" value="offic&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Leaderships.CBA_Officers&#10;mission&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Leaderships.CBA_Mission&#10;mini&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Leaderships.CBA_Minister&#10;christian&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Leaderships.CBA_Christian&#10;cba ch&#9;FILE&#9;file://C:/Users/E Hmar/AndroidStudioProjects/CBANA-MASTER-latest/app/src/main/res/layout/activity_cba_christian.xml&#10;cba cul&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Leaderships.CBA_Culture&#10;cba de&#9;FILE&#9;file://C:/Users/E Hmar/AndroidStudioProjects/CBANA-MASTER-latest/app/src/main/res/layout/activity_cba_development.xml&#10;cba_ch&#9;FILE&#9;file://C:/Users/E Hmar/AndroidStudioProjects/CBANA-MASTER-latest/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Christian.java&#10;leader&#9;FILE&#9;file://C:/Users/E Hmar/AndroidStudioProjects/CBANA-MASTER-latest/app/src/main/res/layout/activity_leaderships.xml&#10;manifest&#9;FILE&#9;file://C:/Users/E Hmar/AndroidStudioProjects/CBANA-MASTER-latest/app/src/main/AndroidManifest.xml&#10;contac&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Contacts.ContactsACBC&#10;cbadeve&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Leaderships.CBA_Development&#10;leaders&#9;PSI&#9;JAVA://vanmang.com.Control_Page.Tabs.ActivityLeaderships" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2653,28 +2868,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_officers.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="33" column="28" lean-forward="false" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Contacts/ContactsACBC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -2707,44 +2900,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_development.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="847">
-          <caret line="309" column="0" lean-forward="false" selection-start-line="309" selection-start-column="0" selection-end-line="309" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Tabs/ActivityLeaderships.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="55" column="79" lean-forward="false" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Development.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="17" column="58" lean-forward="false" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_christian.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="260" column="0" lean-forward="false" selection-start-line="260" selection-start-column="0" selection-end-line="267" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Culture.java">
@@ -2755,21 +2916,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_culture.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-722">
-          <caret line="267" column="77" lean-forward="false" selection-start-line="267" selection-start-column="77" selection-end-line="267" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Christian.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="24" selection-end-column="62" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="24" selection-end-column="62" />
           <folding />
         </state>
       </provider>
@@ -2784,8 +2934,100 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_minister.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="138">
+          <caret line="303" column="67" lean-forward="false" selection-start-line="303" selection-start-column="67" selection-end-line="303" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Mission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_mission.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="214" column="0" lean-forward="false" selection-start-line="214" selection-start-column="0" selection-end-line="214" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_culture.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-722">
+          <caret line="267" column="77" lean-forward="false" selection-start-line="267" selection-start-column="77" selection-end-line="267" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_christian.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="215" column="0" lean-forward="false" selection-start-line="215" selection-start-column="0" selection-end-line="221" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Development.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="23" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/vanmang/com/Control_Page/Leaderships/CBA_Officers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_development.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6897">
+          <caret line="309" column="0" lean-forward="false" selection-start-line="309" selection-start-column="0" selection-end-line="309" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cba_officers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
           <folding />
         </state>
       </provider>
