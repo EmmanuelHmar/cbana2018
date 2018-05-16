@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="3.1.2"
-    timestamp="1526467285669"
+    timestamp="1526467475979"
     token="7274027537257969664"
     verifier="COMPATIBLE" >
 
@@ -15,13 +15,13 @@
         duration="406" />
     <task
         name="instant-run-dex"
-        duration="29" />
+        duration="21" />
     <task
         name="instant-run-transform"
-        duration="62" />
+        duration="44" />
     <task
         name="verifier"
-        duration="16" />
+        duration="793" />
 
     <artifact
         location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
@@ -82,6 +82,14 @@
     <build
         build-mode="HOT_WARM"
         timestamp="1526467285669"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\builds\debug\1526467285669\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1526467475979"
         verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\E Hmar\AndroidStudioProjects\CBANA-MASTER-latest\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
